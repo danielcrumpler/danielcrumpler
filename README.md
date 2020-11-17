@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Daniel Crumpler. I'm a computer science student.
+
+![danielcrumpler's github stats](https://github-readme-stats.vercel.app/api?username=danielcrumpler&count_private=true)
+
 <!--
 **danielcrumpler/danielcrumpler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
