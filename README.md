@@ -6,7 +6,7 @@ My name is Daniel Crumpler.
 
 🏢 I work as a Robotic Process Automation Intern at Southwire Company. 
 
-⚡ I enjoy app development, having released ![apps](https://apps.apple.com/bt/developer/daniel-crumpler/id1524923152) on Apple's iOS Store.
+⚡ I enjoy app development, having released [apps](https://apps.apple.com/bt/developer/daniel-crumpler/id1524923152) on Apple's iOS Store.
 
 ✈️ Fun fact: I am working on receiving my Private Pilot Licence.
 
