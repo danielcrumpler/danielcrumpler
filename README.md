@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Daniel Crumpler.
+### Hello, my name is Daniel Crumpler. 👋
 
 🔭 I am currently working on a Bachlor's of Computer Science at the University of West Georgia.
 
@@ -8,7 +6,7 @@ My name is Daniel Crumpler.
 
 ⚡ I enjoy app development, having released [apps](https://apps.apple.com/bt/developer/daniel-crumpler/id1524923152) on Apple's iOS Store.
 
-✈️ Fun fact: I am working on receiving my Private Pilot Licence.
+💬 Outside of development, I am working on recieving my Private Pilot Licence, work a secondary job at a local college bar, and enjoy spending the small amounts of free time that I have with friends.
 
 ![danielcrumpler's github stats](https://github-readme-stats.vercel.app/api?username=danielcrumpler&count_private=true)
 
