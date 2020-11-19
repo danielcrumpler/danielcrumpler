@@ -1,6 +1,6 @@
 ### Hello, my name is Daniel Crumpler. 👋
 
-🔭 I am currently receiving a Bachlor's of Computer Science at the University of West Georgia.
+🏫 I am currently receiving a Bachlor's of Computer Science at the University of West Georgia.
 
 🏢 I work as a Robotic Process Automation Intern at Southwire Company. 
 
