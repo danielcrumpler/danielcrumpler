@@ -2,7 +2,7 @@
 
 🏫 I am currently receiving a Bachlor's of Computer Science at the University of West Georgia.
 
-🏗️ I am the owner of [Crab Pool](https://crabpool.us) and a co-owner of Psychotic Studios, LLC.
+🏗️ I am the owner of [Crab Pool, LLC](https://crabpool.us) and a co-owner of Psychotic Studios, LLC.
 
 🏢 I work as a Robotic Process Automation Intern at Southwire Company. 
 
