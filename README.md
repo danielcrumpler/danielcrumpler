@@ -2,7 +2,7 @@
 
 🏫 I am currently receiving a Bachlor's of Computer Science at the University of West Georgia.
 
-🏗️ I am the owner of [Crab Pool, LLC.](https://crabpool.us) and a co-owner of Psychotic Studios, LLC.
+🏗️ I am the owner of [Crab Pool](https://crabpool.us) and a co-owner of Psychotic Studios, LLC.
 
 🏢 I work as a Robotic Process Automation Intern at Southwire Company. 
 
@@ -10,7 +10,7 @@
 
 💬 Outside of development, I am working on receiving my Private Pilot Licence, work a secondary job at a local college bar, and enjoy spending the small amounts of free time that I have with my friends.
 
-✈️ Profile Views: ![Github Profile Views:](https://visitor-badge.glitch.me/badge?page_id=danielcrumpler.danielcrumpler)
+✈️ Profile Visits: ![Github Profile Views:](https://visitor-badge.glitch.me/badge?page_id=danielcrumpler.danielcrumpler)
 
 ![danielcrumpler's github stats](https://github-readme-stats.vercel.app/api?username=danielcrumpler&count_private=true)
 
