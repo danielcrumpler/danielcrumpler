@@ -8,9 +8,9 @@
 
 💬 Outside of development, I am working on receiving my Private Pilot Licence, work a secondary job at a local college bar, and enjoy spending the small amounts of free time that I have with my friends.
 
-![danielcrumpler's github stats](https://github-readme-stats.vercel.app/api?username=danielcrumpler&count_private=true)
-
 ✈️ ![visitors](https://visitor-badge.glitch.me/badge?page_id=danielcrumpler.danielcrumpler)
+
+![danielcrumpler's github stats](https://github-readme-stats.vercel.app/api?username=danielcrumpler&count_private=true)
 
 <!--
 **danielcrumpler/danielcrumpler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
