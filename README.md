@@ -2,9 +2,11 @@
 
 🏫 I am currently receiving a Bachlor's of Computer Science at the University of West Georgia.
 
+🏗️ I am the owner of [Crab Pool](https://crabpool.us) and co-owner of Psychotic Studios, LLC.
+
 🏢 I work as a Robotic Process Automation Intern at Southwire Company. 
 
-⚡ I enjoy app development, having released [apps](https://apps.apple.com/bt/developer/daniel-crumpler/id1524923152) on Apple's iOS Store.
+⚡ I enjoy web and app development, having released [apps](https://apps.apple.com/bt/developer/daniel-crumpler/id1524923152) on Apple's iOS Store.
 
 💬 Outside of development, I am working on receiving my Private Pilot Licence, work a secondary job at a local college bar, and enjoy spending the small amounts of free time that I have with my friends.
 
