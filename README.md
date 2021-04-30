@@ -2,7 +2,7 @@
 
 🏫 I am currently receiving a Bachlor's of Computer Science at the University of West Georgia.
 
-🏗️ I am the owner of [Crab Pool](https://crabpool.us) and a Founder | Full Stack Developer for [Jerboa Technologies, LLC.](\/https://jerboatechnologies.com/)
+🏗️ I am the owner of [Crab Pool](https://crabpool.us) and a Founder | Full Stack Developer for [Jerboa Technologies, LLC.](https://jerboatechnologies.com/)
 
 🏢 I work as a Robotic Process Automation Intern at Southwire Company. 
 
