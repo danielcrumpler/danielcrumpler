@@ -2,9 +2,7 @@
 
 🏫 I am currently receiving a Bachlor's of Computer Science at the University of West Georgia.
 
-🏗️ I am the owner of [Crab Pool](https://crabpool.us) and a Founder | Full Stack Developer for [Jerboa Technologies, LLC.](https://jerboatechnologies.com/)
-
-🏢 I work as a Robotic Process Automation Intern at Southwire Company. 
+🏗️ I am a Founder | Full Stack Developer for [Jerboa Technologies, LLC.](https://jerboatechnologies.com/)
 
 ⚡ I enjoy web and app development, having released [apps](https://apps.apple.com/bt/developer/daniel-crumpler/id1524923152) on Apple's iOS Store.
 
