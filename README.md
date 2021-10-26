@@ -2,8 +2,6 @@
 
 🏫 I am currently receiving a Bachlor's of Computer Science at the University of West Georgia.
 
-🏗️ I am a Founder | Full Stack Developer for [Jerboa Technologies, LLC.](https://jerboatechnologies.com/)
-
 ⚡ I enjoy web and app development, having released [apps](https://apps.apple.com/bt/developer/daniel-crumpler/id1524923152) on Apple's iOS Store.
 
 💬 Outside of development, I am working on receiving my Private Pilot Licence, work a secondary job at a local college bar, and enjoy spending the small amounts of free time that I have with my friends.
