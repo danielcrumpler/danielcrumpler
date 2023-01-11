@@ -1,6 +1,6 @@
 ### Hello, my name is Daniel Crumpler. 👋
 
-🏫 I graduated with a Bachlor's of Computer Science at the University of West Georgia.
+🏫 I graduated with a Bachelor of Science in Computer Science at the University of West Georgia.
 
 ⚡ I enjoy web and app development, having released [apps](https://apps.apple.com/bt/developer/daniel-crumpler/id1524923152) on Apple's iOS Store.
 
