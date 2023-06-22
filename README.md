@@ -6,8 +6,6 @@
 
 💬 Outside of development, I am working on receiving my Private Pilot Licence and enjoy spending the small amounts of free time that I have with my friends.
 
-✈️ Profile Visits: ![Github Profile Views:](https://visitor-badge.glitch.me/badge?page_id=danielcrumpler.danielcrumpler)
-
 ![danielcrumpler's github stats](https://github-readme-stats.vercel.app/api?username=danielcrumpler&count_private=true)
 
 <!--
